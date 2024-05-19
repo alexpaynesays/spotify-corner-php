@@ -7,6 +7,7 @@
     <title>The Rise of Podcasts on Spotify the Giant Music App</title>
   <meta name="description" content=" Explore the world of podcasts on Spotify, from accessing and listening to creating your own, with this comprehensive guide.">
   <meta name="robots" content="index"> 
+    <link rel="canonical" href="https://spotify-new-960a20502657.herokuapp.com"> 
     <style>
         body {
             font-family: Arial, sans-serif;
